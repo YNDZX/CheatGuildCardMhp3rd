@@ -1,1 +1,2 @@
 # CHEATGUILDCARDMHP3RD
+Pindahkan
