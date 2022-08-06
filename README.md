@@ -1,2 +1,5 @@
 # CHEATGUILDCARDMHP3RD
-Pindahkan
+
+ requirements
+ -PPSSPP 1.10.3 Or Latter
+ -
