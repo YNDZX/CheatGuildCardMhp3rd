@@ -1,5 +1,3 @@
 # CHEATGUILDCARDMHP3RD
-
- requirements
- -PPSSPP 1.10.3 Or Latter
- -
+Requirements:
+ - PPSSPP 1.10.3 Or Latter
